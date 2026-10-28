@@ -1,0 +1,12 @@
+//crear repositorio en git y cargar contador.go
+
+/*
+aplicacion que cuente con un modulo 
+el modulo se subira a un repositorio de github el cual mostrara mensajes de acuerdo a la funcion que se manda llamar canasta:
+
+canasta 1 punto
+canasta 2 puntos
+canasta 3 puntos 
+
+revisara el git y que muestre las funciones de acuerdo a las funciones 
+*/
